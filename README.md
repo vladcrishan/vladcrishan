@@ -2,8 +2,9 @@
 
 ---
 
+- 🚀 **Jack of all trades** which believes in mastering a single topic
 - 🧑‍💻 Working at [epilot](https://epilot.cloud/)
-- 🌍 My excuse for a personal website: [www.vladcrishan.com](https://www.vladcrishan.com)
+- 🌍 My excuse for a [personal website](https://www.vladcrishan.com)
 - 👍 Likes:
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">,
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">,
